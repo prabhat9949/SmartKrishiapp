@@ -1,5 +1,5 @@
 # 🌾 SmartKrishi  
-### AI-Powered Smart Farming & Crop Smart Krishi is a production-grade, edge-first smart agriculture system that automates irrigation and farm monitoring using IoT, long-range LoRa networking, and AI-driven decision intelligence.
+### Smart Krishi is a production-grade, edge-first smart agriculture system that automates irrigation and farm monitoring using IoT, long-range LoRa networking, and AI-driven decision intelligence.
 Unlike typical cloud-dependent agri-IoT projects, Smart Krishi runs critical irrigation logic locally on-field, ensuring zero downtime, low latency, and reliability even with poor or no internet connectivity. The cloud is used for intelligence, not survival.
 🚀 What Makes Smart Krishi Different
 Edge-First Automation
